@@ -95,9 +95,9 @@ Learning React From Udemy Note
              return classes;
          }
          
-     }
-     
-     export default Counter;
+     }     
+      
+       export default Counter;
      
    ---------------------------------------
      
