@@ -23,13 +23,11 @@ Learning React From Udemy Note
       import 'bootstrap/dist/css/bootstrap.css';
 
 ----------------------------------------------
-    Create folder    
-     - components
-     
-   Create a file
-   
-     - components/conter.jsx
- --------------------------------------------
+    - Create folder    
+       - components
+    - Create a file   
+       - components/conter.jsx
+
 
 
 
