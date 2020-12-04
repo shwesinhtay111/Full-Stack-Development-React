@@ -22,8 +22,7 @@ class Counter extends Component {
                 <span style={this.style} className={this.GetClass()}> { this.Change()}</span>
                 <button onClick={() => {this.handleIncrement({id:1})}} className="btn btn-primary">Increment</button>
                 {/* {this.RenderTags()} */}
-                {this.state.tags.length === 0 ? 'there are no tag' : <ul>{this.state.tags.map(tag => <li key={tag}>{tag}</li>)}</ul> }
-               
+                {this.state.tags.length === 0 ? 'there are no tag' : <ul>{this.state.tags.map(tag => <li key={tag}>{tag}</li>)}</ul> }               
             </React.Fragment>
         
         )
